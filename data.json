@@ -1,0 +1,35 @@
+[
+  {
+    "kind": "cat",
+    "name": "Emmy",
+    "price": 100,
+    "photo" : "https://img.freepik.com/free-photo/red-white-cat-i-white-studio_155003-13189.jpg?t=st=1731677431~exp=1731681031~hmac=cc27363c278366d5c3fbba8aadf45c6e293b6c38b47546da699f9ec02118c005&w=360"
+  },
+  {
+    "kind": "fox",
+    "name": "Dolly",
+    "price": 2000,
+    "details": "The animal needs special care",
+    "photo" : "https://img.freepik.com/free-photo/brown-fox-field-grass-daytime_181624-5428.jpg?t=st=1731677548~exp=1731681148~hmac=9dc4b138839fcbc9f76b87d08b6d20ffd85aae917562e357b4698ab14e0a7fb8&w=740"
+  },
+  {
+    "kind": "cat",
+    "name": "Bob",
+    "price": 120,
+    "photo" : "https://img.freepik.com/free-photo/closeup-shot-fluffy-ginger-domestic-cat-looking-directly-white-background_181624-46543.jpg?t=st=1731677469~exp=1731681069~hmac=87d4ec1656d2ab20a9e73759013a8f7097bd2cfe72c52a806ee2f175724e9365&w=900"
+  },
+  {
+    "kind": "dog",
+    "name": "Geneva",
+    "price": 150,
+    "details": "Good boy",
+    "photo" : "https://img.freepik.com/free-photo/run-maltipu-little-dog-is-posing_155003-22631.jpg?t=st=1731677486~exp=1731681086~hmac=9b97cc871412d034033a13ee6c58b671b92ed7859b6884a55d29ad21c1997bce&w=900"
+  },
+  {
+    "kind": "dog",
+    "name": "Layka",
+    "price": 210,
+    "details": "Понимает русский язык",
+    "photo" : "https://img.freepik.com/free-photo/high-angle-dog-playing-with-toilet-paper-home_23-2149544902.jpg?t=st=1731677514~exp=1731681114~hmac=c8a291c4a09bbcafce8b87fb1c010588643df09ead99a5a415b7ae61b06609b9&w=360"
+  }
+]
